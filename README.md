@@ -1,5 +1,5 @@
 <p align="center">
-  <i>My C++ Learning Journey</i></p>
+  <i>My C++ Learning Journey</i>
   <img src="cpp.gif" width=300>
 </p>
 
