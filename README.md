@@ -1,5 +1,7 @@
-<p align="center"><i>My C++ Learning Journey</i></p>
-<center><img src="cpp.gif" width=300></center>
+<p align="center">
+  <i>My C++ Learning Journey</i></p>
+  <img src="cpp.gif" width=300>
+</p>
 
 ## Motivation
 My main goal is to do system programming. I wonder why I had never touched this language until this moment, but instead programmed in pure assembly. 
