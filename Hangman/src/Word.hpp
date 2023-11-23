@@ -7,7 +7,7 @@
 #include <string>
 #include <ctime>
 
-// Checks whether string::find has matched something
+// Returns whether string::find has matched something
 #define HAS_MATCH(x) (x != string::npos)
 
 using std::string;

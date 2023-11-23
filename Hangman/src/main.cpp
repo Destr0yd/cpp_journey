@@ -21,7 +21,6 @@ int main()
 	Word secret_word(words);
 	bool has_won;
 
-
 	// Print the greeting
 	std::cout << "Welcome to the Hangman Game!\n";
 	std::cout << "--------------------------------------------\n";
