@@ -19,7 +19,7 @@ For now, I've decided that the funnest way to learn is through making small term
 - [x] Smart pointers
 - [x] Templates
 - [ ] OOP (50%)
-- [ ] STL
+- [x] STL
 - [ ] Exception handling
 - [ ] Algorithms
 - [ ] Multithreading
