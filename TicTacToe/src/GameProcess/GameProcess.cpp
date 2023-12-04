@@ -113,7 +113,7 @@ unsigned GameProcess::computer_move()
 	}
 
 	// Moves ranging from the best to worst
-	static const unsigned BEST_MOVES[]
+	static constexpr unsigned BEST_MOVES[]
 	{
 		4, 0, 2, 6, 8, 1, 3, 5, 7
 	};
@@ -128,8 +128,8 @@ unsigned GameProcess::computer_move()
 char GameProcess::game_outcome() const
 {
 	// Winning positions
-	static const unsigned TOTAL_ROWS = 8;
-	static const unsigned WINNING_ROWS[TOTAL_ROWS][3]
+	static constexpr unsigned TOTAL_ROWS = 8;
+	static constexpr unsigned WINNING_ROWS[TOTAL_ROWS][3]
 	{
 		{ 0, 1, 2 },
 		{ 3, 4, 5 },

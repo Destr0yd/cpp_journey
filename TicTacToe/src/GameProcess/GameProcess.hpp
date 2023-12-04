@@ -2,7 +2,7 @@
 
 #include <vector>
 
-const char EMPTY = ' ';
+constexpr char EMPTY = ' ';
 
 enum GameOutcome
 {
