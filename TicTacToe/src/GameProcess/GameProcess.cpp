@@ -1,7 +1,7 @@
 #include <iostream>
 
 #include "GameProcess.hpp"
-#include "..\ask\ask.hpp"
+#include "../ask/ask.hpp"
 
 GameProcess::GameProcess() : board(9, EMPTY), turn(NULL) {}
 
